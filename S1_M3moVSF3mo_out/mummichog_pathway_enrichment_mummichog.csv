@@ -1,0 +1,18 @@
+,Pathway total,Hits.total,Hits.sig,Expected,P(Fisher),P(EASE),P(Gamma),Emp.Hits,Empirical,AdjP.Fisher,AdjP.EASE,AdjP.Gamma,Pathway Number,cpd.hits
+Aminosugars metabolism,69,11,8,2.6757,0.066073,0.16301,0.0009953,0,0,1,1,0.0169201,P1,EC0009;EC00013;EC00016;EC00017;EC00027
+Ascorbate (Vitamin C) and Aldarate Metabolism,25,2,2,0.24324,0.24324,1,0.0019997,7,0.07,1,1,0.0319952,P2,EC00033
+Blood Group Biosynthesis,11,2,1,0.48649,0.43243,1,0.00438,29,0.29,1,1,0.0657,P3,EC0009
+Glycosphingolipid biosynthesis - globoseries,17,3,1,0.48649,0.43243,1,0.00438,29,0.29,1,1,0.0657,P4,EC0009
+Glycosphingolipid biosynthesis - lactoseries,5,2,1,0.48649,0.43243,1,0.00438,29,0.29,1,1,0.0657,P5,EC0009
+Glycosphingolipid biosynthesis - neolactoseries,11,2,1,0.48649,0.43243,1,0.00438,29,0.29,1,1,0.0657,P6,EC0009
+N-Glycan biosynthesis,29,2,1,0.48649,0.43243,1,0.00438,29,0.29,1,1,0.0657,P7,EC0009
+N-Glycan Degradation,7,1,1,0.48649,0.43243,1,0.00438,22,0.22,1,1,0.0657,P8,EC00013
+O-Glycan biosynthesis,10,3,2,0.48649,0.43243,1,0.00438,29,0.29,1,1,0.0657,P9,EC0009
+Keratan sulfate biosynthesis,6,3,1,0.72973,0.57838,1,0.0083779,37,0.37,1,1,0.0670232,P10,EC0009
+Keratan sulfate degradation,14,2,1,0.72973,0.57838,1,0.0083779,33,0.33,1,1,0.0670232,P11,EC00013
+Sialic acid metabolism,89,11,5,1.9459,0.64348,0.88883,0.011405,45,0.45,1,1,0.06843,P12,EC0009;EC00013
+Glycosphingolipid metabolism,56,7,2,2.1892,0.71962,0.9195,0.016733,55,0.55,1,1,0.083665,P13,EC0009;EC00013
+Glycosphingolipid biosynthesis - ganglioseries,38,6,3,1.2162,0.77453,1,0.022543,49,0.49,1,1,0.090172,P14,EC0009
+Purine metabolism,80,6,1,1.7027,0.88499,1,0.045474,34,0.34,1,1,0.136422,P15,EC00010
+Galactose metabolism,44,6,1,1.9459,0.9195,1,0.059915,48,0.48,1,1,0.136422,P16,EC00032
+Pyrimidine metabolism,69,8,1,2.4324,0.96233,1,0.093598,63,0.63,1,1,0.136422,P17,EC00014

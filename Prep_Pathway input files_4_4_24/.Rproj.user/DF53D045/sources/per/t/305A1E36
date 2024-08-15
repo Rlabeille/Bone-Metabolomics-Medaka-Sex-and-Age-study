@@ -1,0 +1,28 @@
+{
+    "id": "305A1E36",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1722200428642.0,
+    "source_on_save": false,
+    "relative_order": 15,
+    "properties": {
+        "id": "bc807d45997f4cb2b85041ab9a722aa9",
+        "name": "pathway_dfs",
+        "title": "pathway_dfs",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 14355631839510644,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1722200428642,
+    "read_only": false,
+    "read_only_alternatives": []
+}

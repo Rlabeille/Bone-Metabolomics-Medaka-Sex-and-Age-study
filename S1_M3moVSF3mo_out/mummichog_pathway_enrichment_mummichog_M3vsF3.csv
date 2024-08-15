@@ -1,0 +1,2 @@
+,Pathway total,Hits.total,Hits.sig,Expected,P(Fisher),P(EASE),P(Gamma),Emp.Hits,Empirical,AdjP.Fisher,AdjP.EASE,AdjP.Gamma,Pathway Number,cpd.hits
+Aminosugars metabolism,69,11,8,2.6757,0.066073,0.16301,0.0009953,0,0,1,1,0.0169201,P1,EC0009;EC00013;EC00016;EC00017;EC00027
